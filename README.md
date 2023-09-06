@@ -162,7 +162,7 @@ A portfolio website consists of all the projects that you have built and helps t
 
 I talked about portfolio website but I did not mention how you can do projects of your own. For that there's a platform that comes to your rescue. It's called [Kaggle](https://www.kaggle.com/). Here you would find thousands of datasets to practice your data analysis/machine learning skills to work on and there are also experienced people sharing their code that could help you learn the best practices (What more do you need?). 
 
-## Hackathons
+### Hackathons
 
 Showcasing that you have experience to build an end to end solution in a small time is very attractive to potential employers. There are multiple websites where you can find Data Science/Machine Learning related hackathons. I would name a few:
 
