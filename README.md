@@ -137,7 +137,9 @@ That's all that I can help you guys with here. You would find something interest
 
 If you're reading this, then know that this role prefers candidates with a masters. Although there is a probability that you can get hired as a data scientist right after your undergraduate degree but the chances are extremely slim. Read Further, only if you wish to go for a master's (if not a PhD). 
 To become a data scientist you need to understand the image below.
+
 ![Data Science Venn Diagram](https://imgs.search.brave.com/TrMGzN_tHULVIgK8g4XvUXdfo4_--sJ1g8kB7_O3rgs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/a2RudWdnZXRzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvZGF0/YS1zY2llbmNlLXZl/bm4tZGlhZ3JhbS1h/c2lsdmVyLTYyOC5q/cGc)
+
 To be a data scientist you need to: 
 - Know python and machine learning. 
 - Understand statistics and mathematics 
